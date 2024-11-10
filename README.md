@@ -6,6 +6,6 @@ BATCH WEBHOOK SPAMMER
 
 TODO:
 
-🔴 Add autospam
+🔴 Add logfile
 🔴 Add webhook checker
 🔴 Add error codes
