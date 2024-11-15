@@ -14,7 +14,7 @@ Submit requests and report bugs in the [issues](https://github.com/zen1em/webhoo
 
 # Current features
 > [!WARNING]
-> Webhook spammer isn't too fast, but it works
+> Webhook spammer is still in development we will add more stuff soon, If you have a suggestion leave it in issues.
 
 | Feature               | Description                                                                                                          |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------|
